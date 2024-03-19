@@ -1,6 +1,5 @@
-Tugas Mata Kuliah Pemrograman Web 2
-Aplikasi Todo menggunakan Javascript
-
-Nama : Akmal Fauzi Salman
-Nim : 21552011233
-Kelas : 221PC
+# Tugas (ToDoApp)
+<ul>
+  <li>Tugas: {Aplikasi Todo}</li>
+  <li>Nama: {Akmal Fauzi Salman}</li>
+</ul>
