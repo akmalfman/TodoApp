@@ -1,5 +1,5 @@
-# Tugas (ToDoApp)
+# Tugas WP2 TodoApp
 <ul>
-  <li>Tugas: {Aplikasi Todo}</li>
-  <li>Nama: {Akmal Fauzi Salman}</li>
+  <li>Tugas: Latihan Todo App</li>
+  <li>Nama: Akmal Fauzi Salman</li>
 </ul>
